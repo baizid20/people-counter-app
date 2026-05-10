@@ -1,0 +1,31 @@
+.main{
+    width: 800px;
+    height: 400px;
+    /* border:1px solid red; */
+    display: block;
+    margin: 8% auto;
+    text-align: center;
+    background-image: url('https://images.pexels.com/photos/32885958/pexels-photo-32885958.jpeg');
+    background-size: cover;
+    
+}
+.funtion-div{
+   /* border: 1px solid red; */
+   margin-top: 40px;
+   font-family: monospace;
+   font-size: 22px;
+   padding:20px ;
+   background-color: rgba(135, 207, 235, 0.325);
+   font-weight: bold;
+   border-radius: 10px;
+}
+.bd-rail-text{
+    color:brown;
+    text-decoration: underline;
+}
+#zero{
+    font-size: 96px;
+    margin:0;
+    padding:0;
+    
+}
